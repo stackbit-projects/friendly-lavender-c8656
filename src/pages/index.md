@@ -57,5 +57,19 @@ sections:
       ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_hero
 template: advanced
 ---
